@@ -1,0 +1,8 @@
+{
+  "name": "yarn1-ws",
+  "packageManager": "yarn@1.22.7",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": "true"
+}
